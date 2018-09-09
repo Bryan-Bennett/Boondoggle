@@ -1,5 +1,7 @@
 # Boondoggle .NET Namespace Extension Libraries
 
+boondoggle *noun* - work or activity that is wasteful or pointless but gives the appearance of having value.
+
 The Boondoggle .NET Namespace Extension Libraries contain types that extend the codebases of the various .NET namespaces.  Each type uses a .NET namespace like System.Reflection
 instead of something like Boondoggle.Reflection or Boondoggle.System.Reflection.  This makes using Boondoggle types easier on developers.  However, it is unconventional -- by convention,
 Boondoggle should be using namespaces in the Boondoggle.* format.  With that said, the decision to use .NET namespaces was based on how we wanted to present "namespace extensions".
