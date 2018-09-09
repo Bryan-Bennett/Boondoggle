@@ -9,7 +9,7 @@ Boondoggle should be using namespaces in the Boondoggle.* format.  With that sai
 ***Note: If any future types implemented by Microsoft clashes with Boondoggle types, the Boondoggle type will be renamed or removed.  The frequency of this happening should be very rare but it is a possibility due
 to the unconventional namespace style Boondoggle uses.***
 
-## Helpful Links
+## Useful Links
 
 * [Boondoggle API Documentation](https://bryan-bennett.github.io/Boondoggle) *(work in progress)*
 * [C# Subreddit](https://www.reddit.com/r/csharp/)
@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install before development:
 
 * [Sandcastle](https://github.com/EWSoftware/SHFB) - Download the latest version of Sandcastle and follow the installation instructions.  Ensure that you install most optional content concerning MAML and Visual Studio integration.  If you do not wish to download and install Sandcastle, simply unload the Boondoggle.Documentation project in your local solution.
 
