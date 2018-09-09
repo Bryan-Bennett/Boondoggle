@@ -20,8 +20,4 @@
     <PackageOutputPath>C:\.nuget</PackageOutputPath>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
-
-  <PropertyGroup Label="Common Project Properties">
-    <XmlDocDirectory>$(SolutionDir)\.docs\xml</XmlDocDirectory>
-  </PropertyGroup>
 </Project>
