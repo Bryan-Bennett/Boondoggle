@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Assembly property" Url="html/028a64b8-1e1d-c499-609b-faa8a9645263.htm" />
+  <HelpKINode Title="AssemblyDirectory property" Url="html/f34391ac-8aff-6fb0-478f-86a7f7800d63.htm" />
+  <HelpKINode Title="AssemblyInfo class">
+    <HelpKINode Title="AssemblyInfo Class" Url="html/750e21a9-0b7e-19b9-3849-1f20456e82e0.htm" />
+    <HelpKINode Title="constructor" Url="html/0f259b36-3e66-ed98-a95d-a46626f874bc.htm" />
+    <HelpKINode Title="methods" Url="html/0235676f-da48-1f04-40b3-ede7f1b5d4ff.htm" />
+    <HelpKINode Title="properties" Url="html/1b1647c8-e99f-0a0a-3689-4cdc2a96f410.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyInfo.Assembly property" Url="html/028a64b8-1e1d-c499-609b-faa8a9645263.htm" />
+  <HelpKINode Title="AssemblyInfo.AssemblyDirectory property" Url="html/f34391ac-8aff-6fb0-478f-86a7f7800d63.htm" />
+  <HelpKINode Title="AssemblyInfo.AssemblyInfo constructor" Url="html/0f259b36-3e66-ed98-a95d-a46626f874bc.htm" />
+  <HelpKINode Title="AssemblyInfo.AssemblyPath property" Url="html/b0d784f9-3cbe-0aab-6bc4-548fb68a7e3b.htm" />
+  <HelpKINode Title="AssemblyInfo.AssemblyVersion property" Url="html/8cbc52ba-9992-c182-2d22-983027adb03a.htm" />
+  <HelpKINode Title="AssemblyInfo.CallingAssembly property" Url="html/8cc49d4b-14e5-5566-563d-537b53065300.htm" />
+  <HelpKINode Title="AssemblyInfo.Company property" Url="html/5c663734-43e5-ecf3-72e0-677c7948655e.htm" />
+  <HelpKINode Title="AssemblyInfo.ComVisible property" Url="html/102c7232-373a-6665-841c-a1c08d040d68.htm" />
+  <HelpKINode Title="AssemblyInfo.Configuration property" Url="html/204fa78e-8935-043d-d8d5-48dfdaab2a0a.htm" />
+  <HelpKINode Title="AssemblyInfo.Copyright property" Url="html/79043665-b32e-b118-7a89-9f6cafe73828.htm" />
+  <HelpKINode Title="AssemblyInfo.Culture property" Url="html/785db0ee-1e8b-eafb-19f9-2e0fe5d23d98.htm" />
+  <HelpKINode Title="AssemblyInfo.Description property" Url="html/e21c741c-ffcd-3dea-0140-b491f786a61d.htm" />
+  <HelpKINode Title="AssemblyInfo.EntryAssembly property" Url="html/03c2943f-76bd-d05f-52b3-79c9769c9c9e.htm" />
+  <HelpKINode Title="AssemblyInfo.FileVersion property" Url="html/52963cec-74f5-cfd2-dae5-9ee35182bea4.htm" />
+  <HelpKINode Title="AssemblyInfo.FromAssembly method" Url="html/228fca22-9ed9-b917-ed5c-d3ae1bdea5d5.htm" />
+  <HelpKINode Title="AssemblyInfo.FromType(Of TType) method" Url="html/4d1dc98d-e8fa-2be7-afda-d82c2c5ec409.htm" />
+  <HelpKINode Title="AssemblyInfo.FromType&lt;TType&gt; method" Url="html/4d1dc98d-e8fa-2be7-afda-d82c2c5ec409.htm" />
+  <HelpKINode Title="AssemblyInfo.Guid property" Url="html/86b24704-3d1a-5745-1bd7-ba13f4d4d025.htm" />
+  <HelpKINode Title="AssemblyInfo.InformationalVersion property" Url="html/2ff59f70-a936-133f-df02-0e2dfa00dd22.htm" />
+  <HelpKINode Title="AssemblyInfo.ProductName property" Url="html/0fc703a4-8d9d-de2e-22d7-b28b61139d6a.htm" />
+  <HelpKINode Title="AssemblyInfo.Title property" Url="html/ed1b34a6-aee0-ee45-1e9d-b354ecdad086.htm" />
+  <HelpKINode Title="AssemblyInfo.Trademark property" Url="html/81ace77a-bc25-80ef-5dd6-ac12e1d7c76d.htm" />
+  <HelpKINode Title="AssemblyPath property" Url="html/b0d784f9-3cbe-0aab-6bc4-548fb68a7e3b.htm" />
+  <HelpKINode Title="AssemblyVersion property" Url="html/8cbc52ba-9992-c182-2d22-983027adb03a.htm" />
+  <HelpKINode Title="CallingAssembly property" Url="html/8cc49d4b-14e5-5566-563d-537b53065300.htm" />
+  <HelpKINode Title="Company property" Url="html/5c663734-43e5-ecf3-72e0-677c7948655e.htm" />
+  <HelpKINode Title="ComVisible property" Url="html/102c7232-373a-6665-841c-a1c08d040d68.htm" />
+  <HelpKINode Title="Configuration property" Url="html/204fa78e-8935-043d-d8d5-48dfdaab2a0a.htm" />
+  <HelpKINode Title="Copyright property" Url="html/79043665-b32e-b118-7a89-9f6cafe73828.htm" />
+  <HelpKINode Title="Culture property" Url="html/785db0ee-1e8b-eafb-19f9-2e0fe5d23d98.htm" />
+  <HelpKINode Title="Description property" Url="html/e21c741c-ffcd-3dea-0140-b491f786a61d.htm" />
+  <HelpKINode Title="EntryAssembly property" Url="html/03c2943f-76bd-d05f-52b3-79c9769c9c9e.htm" />
+  <HelpKINode Title="FileVersion property" Url="html/52963cec-74f5-cfd2-dae5-9ee35182bea4.htm" />
+  <HelpKINode Title="FromAssembly method" Url="html/228fca22-9ed9-b917-ed5c-d3ae1bdea5d5.htm" />
+  <HelpKINode Title="FromType(Of TType) method" Url="html/4d1dc98d-e8fa-2be7-afda-d82c2c5ec409.htm" />
+  <HelpKINode Title="FromType&lt;TType&gt; method" Url="html/4d1dc98d-e8fa-2be7-afda-d82c2c5ec409.htm" />
+  <HelpKINode Title="Guid property" Url="html/86b24704-3d1a-5745-1bd7-ba13f4d4d025.htm" />
+  <HelpKINode Title="InformationalVersion property" Url="html/2ff59f70-a936-133f-df02-0e2dfa00dd22.htm" />
+  <HelpKINode Title="InvokePropertyChanged method" Url="html/ed80ab87-3b9a-0d43-02c4-78b100e9071d.htm" />
+  <HelpKINode Title="ObservableObject class">
+    <HelpKINode Title="ObservableObject Class" Url="html/9a6e11c4-9d3b-7b5d-e65a-1fad788274e1.htm" />
+    <HelpKINode Title="constructor" Url="html/22552142-290f-9f50-d9b2-9b1deb189b9c.htm" />
+    <HelpKINode Title="events" Url="html/cb00b444-2e3c-751c-afd0-d321fdb12147.htm" />
+    <HelpKINode Title="methods" Url="html/aa1584a3-c6bc-7bf5-660e-2efea098572a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObservableObject.InvokePropertyChanged method" Url="html/ed80ab87-3b9a-0d43-02c4-78b100e9071d.htm" />
+  <HelpKINode Title="ObservableObject.ObservableObject constructor" Url="html/22552142-290f-9f50-d9b2-9b1deb189b9c.htm" />
+  <HelpKINode Title="ObservableObject.PropertyChanged event" Url="html/4777c050-574f-f3df-750a-88b4511e5ebe.htm" />
+  <HelpKINode Title="ObservableObject.SetValue(Of TField) method" Url="html/b138f01d-8181-cd5f-a801-a5938e146528.htm" />
+  <HelpKINode Title="ObservableObject.SetValue&lt;TField&gt; method" Url="html/b138f01d-8181-cd5f-a801-a5938e146528.htm" />
+  <HelpKINode Title="ProductName property" Url="html/0fc703a4-8d9d-de2e-22d7-b28b61139d6a.htm" />
+  <HelpKINode Title="PropertyChanged event" Url="html/4777c050-574f-f3df-750a-88b4511e5ebe.htm" />
+  <HelpKINode Title="SetValue(Of TField) method" Url="html/b138f01d-8181-cd5f-a801-a5938e146528.htm" />
+  <HelpKINode Title="SetValue&lt;TField&gt; method" Url="html/b138f01d-8181-cd5f-a801-a5938e146528.htm" />
+  <HelpKINode Title="System.ComponentModel namespace" Url="html/0de82105-8f0d-3514-72ed-11d749ecebe4.htm" />
+  <HelpKINode Title="System.ComponentModel.ObservableObject class" Url="html/9a6e11c4-9d3b-7b5d-e65a-1fad788274e1.htm" />
+  <HelpKINode Title="System.Reflection namespace" Url="html/3ab486cc-fe31-1c1d-2711-62118c2afbf2.htm" />
+  <HelpKINode Title="System.Reflection.AssemblyInfo class" Url="html/750e21a9-0b7e-19b9-3849-1f20456e82e0.htm" />
+  <HelpKINode Title="Title property" Url="html/ed1b34a6-aee0-ee45-1e9d-b354ecdad086.htm" />
+  <HelpKINode Title="Trademark property" Url="html/81ace77a-bc25-80ef-5dd6-ac12e1d7c76d.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/7eb38cfc-0a6e-4db5-a7d7-14d63853d2eb.htm" />
+    <HelpKINode Title="history" Url="html/4ca3792b-cd8a-44e5-be43-781439e035aa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/2de88a28-9f64-4de4-ae39-0f847e4339d1.htm" />
+</HelpKI>

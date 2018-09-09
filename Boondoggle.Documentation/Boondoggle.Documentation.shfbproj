@@ -33,9 +33,9 @@
       <DocumentationSource sourceFile="..\Boondoggle.System.Reflection\bin\Debug\netstandard2.0\Boondoggle.System.Reflection.dll" />
       <DocumentationSource sourceFile="..\Boondoggle.System.Reflection\bin\Debug\netstandard2.0\Boondoggle.System.Reflection.xml" />
     </DocumentationSources>
-    <HelpFileFormat>Markdown</HelpFileFormat>
+    <HelpFileFormat>Website</HelpFileFormat>
     <SyntaxFilters>Standard</SyntaxFilters>
-    <PresentationStyle>Markdown</PresentationStyle>
+    <PresentationStyle>VS2013</PresentationStyle>
     <CleanIntermediates>True</CleanIntermediates>
     <KeepLogFile>True</KeepLogFile>
     <DisableCodeBlockComponent>False</DisableCodeBlockComponent>
@@ -55,6 +55,8 @@
     <WebsiteSdkLinkType>Msdn</WebsiteSdkLinkType>
     <AppendMarkdownFileExtensionsToUrls>True</AppendMarkdownFileExtensionsToUrls>
     <WarnOnMissingSourceContext>False</WarnOnMissingSourceContext>
+    <PlugInConfigurations>
+    </PlugInConfigurations>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
