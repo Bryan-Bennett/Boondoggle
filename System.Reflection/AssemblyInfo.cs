@@ -9,7 +9,7 @@ namespace System.Reflection
     /// </summary>
     /// <remarks>
     /// The caller must have full trust permission due to its internal usage of the <see cref="FileVersionInfo"/> class.  
-    /// See https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.fileversioninfo?view=netframework-4.7.2 for more details concerning this limitation. 
+    /// Click <see href="https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.fileversioninfo?view=netframework-4.7.2">here</see> for more details concerning this limitation. 
     /// </remarks>
     /// <example>
     /// The following example shows how one can use the AssemblyInfo class.

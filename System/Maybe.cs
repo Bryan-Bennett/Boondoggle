@@ -8,7 +8,7 @@
     /// <typeparam name="TRef">The type of the reference.</typeparam>
     /// <remarks>
     /// This struct will be marked as obsolete when C# has built-in syntax for nullable reference types.  More information concerning
-    /// Microsoft's plans for nullable reference types can be found here: https://blogs.msdn.microsoft.com/dotnet/2017/11/15/nullable-reference-types-in-csharp/
+    /// Microsoft's plans for nullable reference types can be found <see href="https://blogs.msdn.microsoft.com/dotnet/2017/11/15/nullable-reference-types-in-csharp/">here.</see>
     /// </remarks>
     /// <examples>
     /// The following example shows how to use the Maybe{TRef} struct in a method's signature as well as its return type.  It also
