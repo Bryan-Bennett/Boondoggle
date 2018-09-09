@@ -4,5 +4,6 @@
     <PackageReleaseNotes>
       -Added AssemblyInfo
     </PackageReleaseNotes>
+    <PackageTags>boondoggle reflection</PackageTags>
   </PropertyGroup>
 </Project>

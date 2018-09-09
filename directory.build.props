@@ -1,7 +1,7 @@
 <Project>
   
   <PropertyGroup Label="Versioning">
-    <VersionPrefix>0.1.0</VersionPrefix>
+    <VersionPrefix>0.1.1</VersionPrefix>
     <VersionSuffix>alpha</VersionSuffix>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
@@ -16,8 +16,8 @@
     <RepositoryUrl>https://github.com/Bryan-Bennett/Boondoggle.git</RepositoryUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/Bryan-Bennett/Boondoggle/master/boondoggle.ico</PackageIconUrl>
     <PackageProjectUrl>https://github.com/Bryan-Bennett/Boondoggle</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/Bryan-Bennett/Boondoggle/blob/master/LICENSE</PackageLicenseUrl>
-    <PackageOutputPath>C:\.nuget</PackageOutputPath>
+    <PackageLicenseUrl>https://github.com/Bryan-Bennett/Boondoggle/blob/master/LICENSE.md</PackageLicenseUrl>
+    <PackageOutputPath>C:\.nuget\$(VersionPrefix)</PackageOutputPath>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)'=='Debug' ">

@@ -4,5 +4,6 @@
     <PackageReleaseNotes>
       -Added ObservableObject
     </PackageReleaseNotes>
+    <PackageTags>boondoggle component componentmodel</PackageTags>
   </PropertyGroup>
 </Project>

@@ -4,5 +4,6 @@
     <PackageReleaseNotes>
       -Added Maybe class for "nullable reference types".  This will become obsolete when nullable reference types are implemented in C#.
     </PackageReleaseNotes>
+    <PackageTags>boondoggle system</PackageTags>
   </PropertyGroup>
 </Project>
