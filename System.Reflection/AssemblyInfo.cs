@@ -33,7 +33,9 @@ namespace System.Reflection
     ///         Console.ReadKey(true);
     ///     }
     /// }
-    /// Output:
+    /// </code>
+    /// The example generates the following output:
+    /// <code>
     ///     Title: AssemblyInfoExample
     ///     Description: My description.
     ///     Version: Hamburgers
@@ -41,14 +43,6 @@ namespace System.Reflection
     ///     Configuration: Debug
     ///     Path: C:\some\path\to\AssemblyInfoExample.dll
     /// </code>
-    /// <output>
-    ///     Title: AssemblyInfoExample
-    ///     Description: My description.
-    ///     Version: Hamburgers
-    ///     Copyright: 2142
-    ///     Configuration: Debug
-    ///     Path: C:\some\path\to\AssemblyInfoExample.dll
-    /// </output>
     /// </example>
     /// <threadsafety static="true" instance="true"/>
     public class AssemblyInfo

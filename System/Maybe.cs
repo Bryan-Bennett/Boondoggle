@@ -45,8 +45,9 @@
     ///         }
     ///     }
     /// }
-    /// 
-    /// Output:
+    /// </code>
+    /// The example generates the following output:
+    /// <code>
     ///     Value1: FooBar
     ///     Value2: NULL
     /// </code>
