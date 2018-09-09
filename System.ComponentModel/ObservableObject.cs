@@ -37,7 +37,7 @@ namespace System.ComponentModel
     /// </code>
     /// </example>
     /// <threadsafety static="true" instance="false"/>
-    /// <seealso cref="https://stackoverflow.com/questions/1315621/implementing-inotifypropertychanged-does-a-better-way-exist"/>
+    /// <seealso href="https://stackoverflow.com/questions/1315621/implementing-inotifypropertychanged-does-a-better-way-exist"/>
     public abstract class ObservableObject : INotifyPropertyChanged
     {
         /// <summary>
