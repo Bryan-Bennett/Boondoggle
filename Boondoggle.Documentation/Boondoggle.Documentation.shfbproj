@@ -59,8 +59,9 @@
     <PlugInConfigurations>
     </PlugInConfigurations>
     <NamingMethod>MemberName</NamingMethod>
-    <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, InheritedFrameworkMembers, Protected, ProtectedInternalAsProtected, NonBrowsable</VisibleItems>
+    <VisibleItems>Attributes, ExplicitInterfaceImplementations, InheritedMembers, InheritedFrameworkMembers, Protected, ProtectedInternalAsProtected, PublicCompilerGenerated, NonBrowsable</VisibleItems>
     <MissingTags>Summary, Parameter, Returns, AutoDocumentCtors, TypeParameter, AutoDocumentDispose</MissingTags>
+    <CopyrightHref>https://github.com/Bryan-Bennett/Boondoggle/blob/master/LICENSE</CopyrightHref>
   </PropertyGroup>
   <!-- There are no properties for these groups.  AnyCPU needs to appear in order for Visual Studio to perform
 			 the build.  The others are optional common platform types that may appear. -->
@@ -102,6 +103,13 @@
       <ImageId>boondoggle</ImageId>
       <AlternateText>boondoggle</AlternateText>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Boondoggle.All\Boondoggle.All.csproj">
+      <Name>Boondoggle.All</Name>
+      <Project>{4ac0c3a1-66b1-46f5-a9a6-615d4dd40737}</Project>
+      <Private>True</Private>
+    </ProjectReference>
   </ItemGroup>
   <!-- Import the SHFB build targets -->
   <Import Project="$(SHFBROOT)\SandcastleHelpFileBuilder.targets" />

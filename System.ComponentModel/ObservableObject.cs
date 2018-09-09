@@ -36,6 +36,7 @@ namespace System.ComponentModel
     /// }
     /// </code>
     /// </example>
+    /// <threadsafety static="true" instance="false"/>
     public abstract class ObservableObject : INotifyPropertyChanged
     {
         /// <summary>

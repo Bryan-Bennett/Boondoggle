@@ -1,16 +1,16 @@
 ﻿using System.Diagnostics;
 using System.IO;
 using System.Runtime.InteropServices;
+using System.Security;
 
 namespace System.Reflection
 {
     /// <summary>
     /// The AssemblyInfo class contains information about an <see cref="Reflection.Assembly"/> like its versions, copyright text, title, configuration, and more.
+    /// <note type="security">
+    /// The caller must have full trust permission due to its internal usage of the <see cref="FileVersionInfo"/> class.
+    /// </note>
     /// </summary>
-    /// <remarks>
-    /// The caller must have full trust permission due to its internal usage of the <see cref="FileVersionInfo"/> class.  
-    /// Click <see href="https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.fileversioninfo?view=netframework-4.7.2">here</see> for more details concerning this limitation. 
-    /// </remarks>
     /// <example>
     /// The following example shows how one can use the AssemblyInfo class.
     /// <code>
@@ -33,7 +33,6 @@ namespace System.Reflection
     ///         Console.ReadKey(true);
     ///     }
     /// }
-    /// </code>
     /// Output:
     ///     Title: AssemblyInfoExample
     ///     Description: My description.
@@ -41,7 +40,9 @@ namespace System.Reflection
     ///     Copyright: 2142
     ///     Configuration: Debug
     ///     Path: C:\some\path\to\AssemblyInfoExample.dll
+    /// </code>
     /// </example>
+    /// <threadsafety static="true" instance="true"/>
     public class AssemblyInfo
     {
         /// <summary>
@@ -138,6 +139,7 @@ namespace System.Reflection
         /// Creates an AssemblyInfo object from the specified <see cref="System.Reflection.Assembly"/>.
         /// </summary>
         /// <param name="assembly"></param>
+        /// <exception cref="SecurityException">Thrown when the immediate caller does not have full trust permission.</exception>
         public AssemblyInfo(Assembly assembly)
         {
             Assembly = assembly;

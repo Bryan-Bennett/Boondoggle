@@ -45,11 +45,13 @@
     ///         }
     ///     }
     /// }
-    /// </code>
+    /// 
     /// Output:
     ///     Value1: FooBar
     ///     Value2: NULL
+    /// </code>
     /// </examples>
+    /// <threadsafety static="true" instance="true"/>
     public struct Maybe<TRef> where TRef : class
     {
         /// <summary>
