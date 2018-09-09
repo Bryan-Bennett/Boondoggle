@@ -6,6 +6,10 @@
     /// If a method returns a Maybe{string}, however, that tells callers that the result of the method MAY return a null string.
     /// </summary>
     /// <typeparam name="TRef">The type of the reference.</typeparam>
+    /// <remarks>
+    /// This struct will be marked as obsolete when C# has built-in syntax for nullable reference types.  More information concerning
+    /// Microsoft's plans for nullable reference types can be found here: https://blogs.msdn.microsoft.com/dotnet/2017/11/15/nullable-reference-types-in-csharp/
+    /// </remarks>
     /// <examples>
     /// The following example shows how to use the Maybe{TRef} struct in a method's signature as well as its return type.  It also
     /// demonstrates the convenience of its implicit conversion to its type parameter.
