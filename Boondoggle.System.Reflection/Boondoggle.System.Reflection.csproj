@@ -4,4 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>System.Reflection</RootNamespace>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>$(XmlDocDirectory)\Boondoggle.System.Reflection.xml</DocumentationFile>
+  </PropertyGroup>
 </Project>
