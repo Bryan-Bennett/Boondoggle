@@ -1,0 +1,18 @@
+<Project>
+  <PropertyGroup>
+    <Company>Bryan Bennett</Company>
+    <Authors>$(Company)</Authors>
+    <Product>Boondoggle Libraries $([System.DateTime]::Now.Year)</Product>
+    <Copyright>2018</Copyright>
+    <RepositoryType>Git</RepositoryType>
+    <RepositoryUrl>https://github.com/Bryan-Bennett/Boondoggle.git</RepositoryUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/Bryan-Bennett/Boondoggle/master/boondoggle.ico</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/Bryan-Bennett/Boondoggle</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/Bryan-Bennett/Boondoggle/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageOutputPath>C:\.nuget</PackageOutputPath>
+    <VersionPrefix>0.1.0</VersionPrefix>
+    <VersionSuffix>alpha</VersionSuffix>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+</Project>
