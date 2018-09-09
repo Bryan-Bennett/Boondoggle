@@ -55,7 +55,7 @@ namespace System.ComponentModel
         /// </remarks>
         /// <example>
         /// The following properties uses the InvokePropertyChanged method in two different ways.  The FirstName property does not
-        /// provides the property name parameter to the method thus resulting in a PropertyChanged event with the 'FirstName' string.
+        /// provide the property name parameter to the method thus resulting in a PropertyChanged event with the 'FirstName' string.
         /// The LastName property provides 'FooBar' as the property name parameter and thus results in a PropertyChanged event with the 'FooBar' string.
         /// 
         /// <code>
@@ -104,6 +104,9 @@ namespace System.ComponentModel
         /// This method is overridable.
         /// </remarks>
         /// <example>
+        /// The following example shows how to use the SetValue method not only to invoke a property changed event
+        /// using the property's name as well as a hard-coded value but also using the boolean return to have conditional logic based on whether or not
+        /// the value of the property changed.
         /// 
         /// <code>
         /// private string _FirstName;
