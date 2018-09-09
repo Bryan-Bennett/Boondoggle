@@ -11,6 +11,37 @@ namespace System.Reflection
     /// The caller must have full trust permission due to its internal usage of the <see cref="FileVersionInfo"/> class.  
     /// See https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.fileversioninfo?view=netframework-4.7.2 for more details concerning this limitation. 
     /// </remarks>
+    /// <example>
+    /// The following example shows how one can use the AssemblyInfo class.
+    /// <code>
+    /// [assembly: AssemblyTitle("AssemblyInfoExample")]
+    /// [assembly: AssemblyDescription("My description.")]
+    /// [assembly: AssemblyInformationalVersion("Hamburgers")]
+    /// [assembly: AssemblyCopyright("2142")]
+    /// [assembly: AssemblyConfiguration("Debug")]
+    /// public static class Program
+    /// {
+    ///     public static void Main(string[] args)
+    ///     {
+    ///         var info = AssemblyInfo.EntryAssembly;
+    ///         Console.WriteLine($"Title: {info.Title}");
+    ///         Console.WriteLine($"Description: {info.Description}");
+    ///         Console.WriteLine($"Version: {info.InformationalVersion}");
+    ///         Console.WriteLine($"Copyright: {info.Copyright}");
+    ///         Console.WriteLine($"Configuration: {info.Configuration}");
+    ///         Console.WriteLine($"Path: {info.AssemblyPath}");
+    ///         Console.ReadKey(true);
+    ///     }
+    /// }
+    /// </code>
+    /// Output:
+    ///     Title: AssemblyInfoExample
+    ///     Description: My description.
+    ///     Version: Hamburgers
+    ///     Copyright: 2142
+    ///     Configuration: Debug
+    ///     Path: C:\some\path\to\AssemblyInfoExample.dll
+    /// </example>
     public class AssemblyInfo
     {
         /// <summary>

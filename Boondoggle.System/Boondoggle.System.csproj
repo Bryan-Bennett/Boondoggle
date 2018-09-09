@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="Properties\AssemblyInfo.props" />
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>System</RootNamespace>
+    <PackageTags>boondoggle system</PackageTags>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netstandard2.0\Boondoggle.System.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <Import Project="..\System\System.projitems" Label="Shared" />
+
+</Project>

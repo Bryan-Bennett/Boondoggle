@@ -1,0 +1,5 @@
+﻿<Project>
+  <PropertyGroup>
+    <Description>Contains all of the Boondoggle .NET Namespace Extension Libraries bundled into a single assembly.</Description>
+  </PropertyGroup>
+</Project>

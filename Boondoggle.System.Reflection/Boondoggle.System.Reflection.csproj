@@ -1,4 +1,5 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\System.Reflection\System.Reflection.projitems" Label="Shared" />
   <Import Project="Properties/AssemblyInfo.props" />
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>

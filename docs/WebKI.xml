@@ -45,8 +45,29 @@
   <HelpKINode Title="FromType(Of TType) method" Url="html/M_System_Reflection_AssemblyInfo_FromType__1.htm" />
   <HelpKINode Title="FromType&lt;TType&gt; method" Url="html/M_System_Reflection_AssemblyInfo_FromType__1.htm" />
   <HelpKINode Title="Guid property" Url="html/P_System_Reflection_AssemblyInfo_Guid.htm" />
+  <HelpKINode Title="HasValue property" Url="html/P_System_Maybe_1_HasValue.htm" />
   <HelpKINode Title="InformationalVersion property" Url="html/P_System_Reflection_AssemblyInfo_InformationalVersion.htm" />
   <HelpKINode Title="InvokePropertyChanged method" Url="html/M_System_ComponentModel_ObservableObject_InvokePropertyChanged.htm" />
+  <HelpKINode Title="Maybe(Of TRef) structure">
+    <HelpKINode Title="Maybe(TRef) Structure" Url="html/T_System_Maybe_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_System_Maybe_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_System_Maybe_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_System_Maybe_1.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_System_Maybe_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Maybe(Of TRef).HasValue property" Url="html/P_System_Maybe_1_HasValue.htm" />
+  <HelpKINode Title="Maybe(Of TRef).Maybe constructor" Url="html/M_System_Maybe_1__ctor.htm" />
+  <HelpKINode Title="Maybe(Of TRef).Value property" Url="html/P_System_Maybe_1_Value.htm" />
+  <HelpKINode Title="Maybe&lt;TRef&gt; structure">
+    <HelpKINode Title="Maybe(TRef) Structure" Url="html/T_System_Maybe_1.htm" />
+    <HelpKINode Title="constructor" Url="html/M_System_Maybe_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_System_Maybe_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_System_Maybe_1.htm" />
+    <HelpKINode Title="type conversions" Url="html/Operators_T_System_Maybe_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Maybe&lt;TRef&gt;.HasValue property" Url="html/P_System_Maybe_1_HasValue.htm" />
+  <HelpKINode Title="Maybe&lt;TRef&gt;.Maybe constructor" Url="html/M_System_Maybe_1__ctor.htm" />
+  <HelpKINode Title="Maybe&lt;TRef&gt;.Value property" Url="html/P_System_Maybe_1_Value.htm" />
   <HelpKINode Title="ObservableObject class">
     <HelpKINode Title="ObservableObject Class" Url="html/T_System_ComponentModel_ObservableObject.htm" />
     <HelpKINode Title="constructor" Url="html/M_System_ComponentModel_ObservableObject__ctor.htm" />
@@ -62,12 +83,18 @@
   <HelpKINode Title="PropertyChanged event" Url="html/E_System_ComponentModel_ObservableObject_PropertyChanged.htm" />
   <HelpKINode Title="SetValue(Of TField) method" Url="html/M_System_ComponentModel_ObservableObject_SetValue__1.htm" />
   <HelpKINode Title="SetValue&lt;TField&gt; method" Url="html/M_System_ComponentModel_ObservableObject_SetValue__1.htm" />
+  <HelpKINode Title="System namespace" Url="html/N_System.htm" />
   <HelpKINode Title="System.ComponentModel namespace" Url="html/N_System_ComponentModel.htm" />
   <HelpKINode Title="System.ComponentModel.ObservableObject class" Url="html/T_System_ComponentModel_ObservableObject.htm" />
+  <HelpKINode Title="System.Maybe(Of TRef) structure" Url="html/T_System_Maybe_1.htm" />
+  <HelpKINode Title="System.Maybe&lt;TRef&gt; structure" Url="html/T_System_Maybe_1.htm" />
   <HelpKINode Title="System.Reflection namespace" Url="html/N_System_Reflection.htm" />
   <HelpKINode Title="System.Reflection.AssemblyInfo class" Url="html/T_System_Reflection_AssemblyInfo.htm" />
   <HelpKINode Title="Title property" Url="html/P_System_Reflection_AssemblyInfo_Title.htm" />
   <HelpKINode Title="Trademark property" Url="html/P_System_Reflection_AssemblyInfo_Trademark.htm" />
+  <HelpKINode Title="TRef to Maybe(Of TRef) conversion" Url="html/M_System_Maybe_1_op_Implicit.htm" />
+  <HelpKINode Title="TRef to Maybe&lt;TRef&gt; conversion" Url="html/M_System_Maybe_1_op_Implicit.htm" />
+  <HelpKINode Title="Value property" Url="html/P_System_Maybe_1_Value.htm" />
   <HelpKINode Title="version">
     <HelpKINode Title="1.0.0.0" Url="html/7eb38cfc-0a6e-4db5-a7d7-14d63853d2eb.htm" />
     <HelpKINode Title="history" Url="html/4ca3792b-cd8a-44e5-be43-781439e035aa.htm" />

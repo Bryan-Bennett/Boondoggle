@@ -1,2 +1,4 @@
 # Boondoggle
-Boondoggle contains types that extend the codebases of various .NET namespaces.
+The Boondoggle .NET Namespace Extension Libraries contain types that extend the codebases of the various .NET namespaces.
+
+TODO

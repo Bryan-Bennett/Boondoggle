@@ -31,11 +31,8 @@
       <Argument Key="requestExampleUrl" Value="" />
     </TransformComponentArguments>
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\Boondoggle.sln" />
-      <DocumentationSource sourceFile="..\Boondoggle.System.ComponentModel\bin\Debug\netstandard2.0\Boondoggle.System.ComponentModel.dll" />
-      <DocumentationSource sourceFile="..\Boondoggle.System.ComponentModel\bin\Debug\netstandard2.0\Boondoggle.System.ComponentModel.xml" />
-      <DocumentationSource sourceFile="..\Boondoggle.System.Reflection\bin\Debug\netstandard2.0\Boondoggle.System.Reflection.dll" />
-      <DocumentationSource sourceFile="..\Boondoggle.System.Reflection\bin\Debug\netstandard2.0\Boondoggle.System.Reflection.xml" />
+      <DocumentationSource sourceFile="..\Boondoggle.All\bin\Debug\netstandard2.0\Boondoggle.All.dll" />
+      <DocumentationSource sourceFile="..\Boondoggle.All\bin\Debug\netstandard2.0\Boondoggle.All.xml" />
     </DocumentationSources>
     <HelpFileFormat>Website</HelpFileFormat>
     <SyntaxFilters>Standard</SyntaxFilters>

@@ -6,6 +6,36 @@ namespace System.ComponentModel
     /// <summary>
     /// The ObservableObject class exposes convenient methods for subclasses to perform common data-binding operations.
     /// </summary>
+    /// <example>
+    /// The following example shows how to inherit from ObservableObject so that changes to property values will automatically 
+    /// propagate <see cref="INotifyPropertyChanged.PropertyChanged"/> events for databinding operations.
+    /// <code>
+    /// public class Person : ObservableObject
+    /// {
+    ///     private string _Name;
+    ///     
+    ///     private int _Age;
+    ///     
+    ///     public string Name
+    ///     {
+    ///         get { return _Name; }
+    ///         set
+    ///         {
+    ///             SetValue(ref _Name, value);
+    ///         }
+    ///     }
+    ///     
+    ///     public int Age
+    ///     {
+    ///         get { return _Age; }
+    ///         set
+    ///         {
+    ///             SetValue(ref _Age, value);
+    ///         }
+    ///     }
+    /// }
+    /// </code>
+    /// </example>
     public abstract class ObservableObject : INotifyPropertyChanged
     {
         /// <summary>

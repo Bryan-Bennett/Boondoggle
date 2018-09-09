@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Description>A Boondoggle library for common and useful types that extend the System.ComponentModel namespace.</Description>
     <PackageReleaseNotes>
-      -Added AssemblyInfo
+      -Added ObservableObject
     </PackageReleaseNotes>
   </PropertyGroup>
 </Project>
