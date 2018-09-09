@@ -17,6 +17,10 @@ What things you need to install the software and how to install them
 
 * [Sandcastle](https://github.com/EWSoftware/SHFB) - Download the latest version of Sandcastle and follow the installation instructions.  Ensure that you install most optional content concerning MAML and Visual Studio integration.  If you do not wish to download and install Sandcastle, simply unload the Boondoggle.Documentation project in your local solution.
 
+### Development Workflow
+
+*coming soon*
+
 ## Built With
 
 * [.NET Standard](https://docs.microsoft.com/en-us/dotnet/standard/net-standard) - .NET implementation
@@ -33,8 +37,8 @@ We use [Semantic Versioning](http://semver.org/) for versioning.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* TODO
+*coming soon*
