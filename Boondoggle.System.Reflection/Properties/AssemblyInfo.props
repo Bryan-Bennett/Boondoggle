@@ -1,6 +1,6 @@
 ﻿<Project>
   <PropertyGroup>
-    <Description>A Boondoggle library for common and useful types that extend the System.ComponentModel namespace.</Description>
+    <Description>A Boondoggle library for common and useful types that extend the System.Reflection namespace.</Description>
     <PackageReleaseNotes>
       -Added ObservableObject
     </PackageReleaseNotes>

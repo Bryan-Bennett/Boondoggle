@@ -4,7 +4,7 @@
     <VersionSuffix>alpha</VersionSuffix>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
-    <Description>A Boondoggle library for common and useful types that extend the System.Reflection namespace.</Description>
+    <Description>A Boondoggle library for common and useful types that extend the System.ComponentModel namespace.</Description>
     <PackageReleaseNotes>
       -Added AssemblyInfo
     </PackageReleaseNotes>
