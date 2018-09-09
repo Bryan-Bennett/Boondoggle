@@ -4,9 +4,13 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>System</RootNamespace>
     <PackageTags>boondoggle system</PackageTags>
+    <Configurations>Debug;Release;Documentation</Configurations>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>bin\Debug\netstandard2.0\Boondoggle.System.xml</DocumentationFile>
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Documentation|AnyCPU'">
+    <DocumentationFile>bin\Documentation\netstandard2.0\Boondoggle.System.xml</DocumentationFile>
   </PropertyGroup>
 
   <Import Project="..\System\System.projitems" Label="Shared" />

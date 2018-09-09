@@ -31,8 +31,8 @@
       <Argument Key="requestExampleUrl" Value="" />
     </TransformComponentArguments>
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\Boondoggle.All\bin\Debug\netstandard2.0\Boondoggle.All.dll" />
-      <DocumentationSource sourceFile="..\Boondoggle.All\bin\Debug\netstandard2.0\Boondoggle.All.xml" />
+      <DocumentationSource sourceFile="..\Boondoggle.All\bin\Documentation\netstandard2.0\Boondoggle.All.dll" />
+      <DocumentationSource sourceFile="..\Boondoggle.All\bin\Documentation\netstandard2.0\Boondoggle.All.xml" />
     </DocumentationSources>
     <HelpFileFormat>Website</HelpFileFormat>
     <SyntaxFilters>Standard</SyntaxFilters>
@@ -121,5 +121,8 @@
     <PostBuildEvent>
     </PostBuildEvent>
     <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Documentation' ">
+    <OutputPath>bin\Documentation\</OutputPath>
   </PropertyGroup>
 </Project>

@@ -18,6 +18,18 @@
     <PackageProjectUrl>https://github.com/Bryan-Bennett/Boondoggle</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/Bryan-Bennett/Boondoggle/blob/master/LICENSE</PackageLicenseUrl>
     <PackageOutputPath>C:\.nuget</PackageOutputPath>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)'=='Debug' ">
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)'=='Documentation' ">
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)'=='Release' ">
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>   
+  </PropertyGroup>
+
 </Project>
