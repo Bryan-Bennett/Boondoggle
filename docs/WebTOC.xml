@@ -2,39 +2,39 @@
 <HelpTOC>
 
   <HelpTOCNode Title="Welcome to the Boondoggle API Documentation" Url="html/2de88a28-9f64-4de4-ae39-0f847e4339d1.htm" />
-  <HelpTOCNode Id="d75a13ba-f8a1-4407-a7c0-b468127898dd" Title="Version History" Url="html/4ca3792b-cd8a-44e5-be43-781439e035aa.htm">
+  <HelpTOCNode Id="7843a665-1935-41d7-bcf1-b5b88c3a750b" Title="Version History" Url="html/4ca3792b-cd8a-44e5-be43-781439e035aa.htm">
     <HelpTOCNode Title="Version 1.0.0.0" Url="html/7eb38cfc-0a6e-4db5-a7d7-14d63853d2eb.htm" />
   </HelpTOCNode>
-  <HelpTOCNode Id="14937640-728e-4ced-99c5-c34b87323b6d" Title="System Namespaces" Url="html/G_System.htm">
-    <HelpTOCNode Id="ba3d4075-78b1-41f1-879b-d42ab72f541f" Title="System" Url="html/N_System.htm">
-      <HelpTOCNode Id="171aedb4-8383-4e36-89ee-563a82bc9abe" Title="Maybe(TRef) Structure" Url="html/T_System_Maybe_1.htm">
+  <HelpTOCNode Id="1ab96073-8f99-40f4-8f6a-7d3876b7bb08" Title="System Namespaces" Url="html/G_System.htm">
+    <HelpTOCNode Id="05c894dd-fa06-4571-8837-f7b6390ac518" Title="System" Url="html/N_System.htm">
+      <HelpTOCNode Id="108b0de8-a2ac-434d-833d-2acc8aad0ecc" Title="Maybe(TRef) Structure" Url="html/T_System_Maybe_1.htm">
         <HelpTOCNode Title="Maybe(TRef) Constructor " Url="html/M_System_Maybe_1__ctor.htm" />
-        <HelpTOCNode Id="96cdc3e0-0951-4994-a715-71d3a3adba66" Title="Maybe(TRef) Properties" Url="html/Properties_T_System_Maybe_1.htm">
+        <HelpTOCNode Id="fd0809a5-6e91-4442-9dd2-ba21d9fff519" Title="Maybe(TRef) Properties" Url="html/Properties_T_System_Maybe_1.htm">
           <HelpTOCNode Title="HasValue Property " Url="html/P_System_Maybe_1_HasValue.htm" />
           <HelpTOCNode Title="Value Property " Url="html/P_System_Maybe_1_Value.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Maybe(TRef) Methods" Url="html/Methods_T_System_Maybe_1.htm" />
-        <HelpTOCNode Id="5d071d2f-f8b2-4344-96a0-73b6aa0bfe9e" Title="Maybe(TRef) Type Conversions" Url="html/Operators_T_System_Maybe_1.htm">
+        <HelpTOCNode Id="0d7de246-4ba4-488a-a5e0-25ac4808714b" Title="Maybe(TRef) Type Conversions" Url="html/Operators_T_System_Maybe_1.htm">
           <HelpTOCNode Title="Implicit Conversion (TRef to Maybe(TRef))" Url="html/M_System_Maybe_1_op_Implicit.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="14bd7c23-984c-4ebf-a7a0-b5e888007bd3" Title="System.ComponentModel" Url="html/N_System_ComponentModel.htm">
-      <HelpTOCNode Id="8f5c6c35-69ef-44cc-af98-785818a7b3d9" Title="ObservableObject Class" Url="html/T_System_ComponentModel_ObservableObject.htm">
+    <HelpTOCNode Id="395261a9-38c3-4662-8c43-3f2350c89a9f" Title="System.ComponentModel" Url="html/N_System_ComponentModel.htm">
+      <HelpTOCNode Id="74a6d766-3b00-4218-8e72-e8af2177261a" Title="ObservableObject Class" Url="html/T_System_ComponentModel_ObservableObject.htm">
         <HelpTOCNode Title="ObservableObject Constructor " Url="html/M_System_ComponentModel_ObservableObject__ctor.htm" />
-        <HelpTOCNode Id="a5246f8e-f8b3-4133-9e5e-cb0d99c078af" Title="ObservableObject Methods" Url="html/Methods_T_System_ComponentModel_ObservableObject.htm">
+        <HelpTOCNode Id="bed1917c-380a-456c-a195-ff78a804341e" Title="ObservableObject Methods" Url="html/Methods_T_System_ComponentModel_ObservableObject.htm">
           <HelpTOCNode Title="InvokePropertyChanged Method " Url="html/M_System_ComponentModel_ObservableObject_InvokePropertyChanged.htm" />
           <HelpTOCNode Title="SetValue(TField) Method " Url="html/M_System_ComponentModel_ObservableObject_SetValue__1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2b436c37-7bea-4a32-811d-bbcbedecf7a3" Title="ObservableObject Events" Url="html/Events_T_System_ComponentModel_ObservableObject.htm">
+        <HelpTOCNode Id="df0b70ff-1326-4099-b1d8-e478b89ec89c" Title="ObservableObject Events" Url="html/Events_T_System_ComponentModel_ObservableObject.htm">
           <HelpTOCNode Title="PropertyChanged Event" Url="html/E_System_ComponentModel_ObservableObject_PropertyChanged.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ac1d8599-5226-4758-95a0-4a2ddf3cf493" Title="System.Reflection" Url="html/N_System_Reflection.htm">
-      <HelpTOCNode Id="1814d053-a267-422c-9a04-41bf6be7614f" Title="AssemblyInfo Class" Url="html/T_System_Reflection_AssemblyInfo.htm">
+    <HelpTOCNode Id="8f89e5bd-bc13-4a78-9afd-f47b3730812a" Title="System.Reflection" Url="html/N_System_Reflection.htm">
+      <HelpTOCNode Id="c4929f8a-724e-4b6c-ba4a-bf26aacf6ff6" Title="AssemblyInfo Class" Url="html/T_System_Reflection_AssemblyInfo.htm">
         <HelpTOCNode Title="AssemblyInfo Constructor " Url="html/M_System_Reflection_AssemblyInfo__ctor.htm" />
-        <HelpTOCNode Id="3dab86f5-26f5-4aeb-9521-bcb5b34e1396" Title="AssemblyInfo Properties" Url="html/Properties_T_System_Reflection_AssemblyInfo.htm">
+        <HelpTOCNode Id="5d48879c-0970-459a-b268-557405f56056" Title="AssemblyInfo Properties" Url="html/Properties_T_System_Reflection_AssemblyInfo.htm">
           <HelpTOCNode Title="Assembly Property " Url="html/P_System_Reflection_AssemblyInfo_Assembly.htm" />
           <HelpTOCNode Title="AssemblyDirectory Property " Url="html/P_System_Reflection_AssemblyInfo_AssemblyDirectory.htm" />
           <HelpTOCNode Title="AssemblyPath Property " Url="html/P_System_Reflection_AssemblyInfo_AssemblyPath.htm" />
@@ -54,7 +54,7 @@
           <HelpTOCNode Title="Title Property " Url="html/P_System_Reflection_AssemblyInfo_Title.htm" />
           <HelpTOCNode Title="Trademark Property " Url="html/P_System_Reflection_AssemblyInfo_Trademark.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="d6b72c5c-c278-4024-976d-4234def0e84b" Title="AssemblyInfo Methods" Url="html/Methods_T_System_Reflection_AssemblyInfo.htm">
+        <HelpTOCNode Id="1e760152-0860-4c38-8c22-2c88ee0900b5" Title="AssemblyInfo Methods" Url="html/Methods_T_System_Reflection_AssemblyInfo.htm">
           <HelpTOCNode Title="FromAssembly Method " Url="html/M_System_Reflection_AssemblyInfo_FromAssembly.htm" />
           <HelpTOCNode Title="FromType(TType) Method " Url="html/M_System_Reflection_AssemblyInfo_FromType__1.htm" />
         </HelpTOCNode>

@@ -22,7 +22,7 @@ Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "System", "System\System.shp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boondoggle.All", "Boondoggle.All\Boondoggle.All.csproj", "{4AC0C3A1-66B1-46F5-A9A6-615D4DD40737}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DocumentGeneration", "DocumentGeneration", "{FFB1F69F-B9A4-477C-AFCF-9F1D4C17CFFC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs.Sandcastle", "docs.Sandcastle", "{FFB1F69F-B9A4-477C-AFCF-9F1D4C17CFFC}"
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "System.ComponentModel", "System.ComponentModel\System.ComponentModel.shproj", "{79F5112E-06E7-421C-A17E-9F0607DD6C08}"
 EndProject
